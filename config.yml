@@ -1,0 +1,4 @@
+test:
+  dependencies:
+    python:
+      enabled: false
