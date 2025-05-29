@@ -2,3 +2,4 @@ test:
   dependencies:
     python:
       enabled: false
+  type: docker
